@@ -31,7 +31,7 @@ public class Animals extends AppCompatActivity {
         Animal animal = new Animal();
         animal.setAnimal_name("เสือดาวอามูร์");
         animal.setAnimal_name2("Amur Leopard");
-        animal.setAnimal_image("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Black_Rhino_Diceros_bicornis.JPG/1024px-Black_Rhino_Diceros_bicornis.JPG");
+        animal.setAnimal_image("https://nattawut364640637.files.wordpress.com/2018/07/kapook_world-5741772.jpg");
         animal.setAnimal_type("สัตว์เลี้ยงลูกด้วยนม");
         animal.setAnimal_pop("เหลือไม่กี่ร้อยตัว");
         animals.add(animal);
@@ -39,7 +39,7 @@ public class Animals extends AppCompatActivity {
         Animal animal2 = new Animal();
         animal2.setAnimal_name("แรดดำ");
         animal2.setAnimal_name2("black rhino");
-        animal2.setAnimal_image("https://www.greenpeace.org/static/planet4-thailand-stateless/2019/05/7ae56a53-gp0zdy.jpg");
+        animal2.setAnimal_image("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Black_Rhino_Diceros_bicornis.JPG/1024px-Black_Rhino_Diceros_bicornis.JPG");
         animal2.setAnimal_type("สัตว์เลิ้อยคลาน");
         animal2.setAnimal_pop("ประมาณ5000");
         animals.add(animal2);
